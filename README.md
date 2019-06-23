@@ -1,4 +1,4 @@
-# Word_Dragon
+# Word Dragon
 一、18年软件系统分析设计学期作业-成语接龙  
 二、编程涉及技术：c++ socket，Windows API  
 三、特点：  
